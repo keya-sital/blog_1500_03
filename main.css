@@ -12,3 +12,8 @@
 @charset "UTF-8";
 /* CSS Document*/
 
+body {
+    margin: 0px;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+}
